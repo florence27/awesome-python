@@ -1,5 +1,7 @@
 # Contributing
 
+Bitte sende deine Email an: lieblings_kollege@firma.com
+
 Your contributions are always welcome!
 
 ## Guideline
